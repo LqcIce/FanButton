@@ -84,6 +84,7 @@ public class FanBtn extends View {
         /**
          * 画最外层的大圆环
          */
+        paint.reset();
         int center = getWidth() / 2; //获取圆心的x坐标
         paint.setColor(Color.WHITE); //设置圆环的颜色
 //        paint.setStyle(Paint.Style.STROKE); //设置空心
