@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FourButton">
+        <attr name="radius" />
+    </declare-styleable>
+
+    <attr name="radius" format="dimension"/>
+
+
+    <attr name="level" format="integer" />
+        <attr name="indicatorColor" format="color" />
+
+    <declare-styleable name="FanBtn">
+        <attr name="level" />
+        <attr name="indicatorColor" />
+        <attr name="radius" />
+    </declare-styleable>
+
+
+</resources>
